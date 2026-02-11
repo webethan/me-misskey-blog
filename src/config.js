@@ -9,7 +9,7 @@ export const CONFIG = {
   // Example: @A@sshup.com
   // 格式：@用户名@实例域名
   // 填写后，系统会自动查找并获取动态。
-  FEDIVERSE_HANDLE: '@A@sshup.com',
+  FEDIVERSE_HANDLE: '@Z@sshup.com',
 
   // ==============================================================================
   // 2. SITE META (Website Information) | 网站元信息 (显示在浏览器标签页和分享卡片上)
@@ -17,7 +17,7 @@ export const CONFIG = {
 
   // The main title of your blog (e.g., your name or nickname)
   // 网站主标题 (通常填写您的名字或昵称)
-  SITE_TITLE: '否极泰来',
+  SITE_TITLE: '雅茹',
 
   // Site description for SEO and social sharing (Open Graph)
   // 网站描述 (用于 SEO 和分享链接时显示的简介)
